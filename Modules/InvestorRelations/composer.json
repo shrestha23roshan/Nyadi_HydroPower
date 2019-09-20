@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/investorrelations",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\InvestorRelations\\Providers\\InvestorRelationsServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\InvestorRelations\\": ""
+        }
+    }
+}

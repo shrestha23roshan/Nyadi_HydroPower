@@ -1,0 +1,14 @@
+.search-icons{
+    position: relative!important;
+    right: -20px!important;
+}
+.dropdown:hover .dropdown-menu{
+	display: block;
+}
+.main-wrapper .footer .foot-contents iframe {
+    width: 45%;
+    height: 150px;
+}
+.main-wrapper .homepages-contentss .gallery-section .gallery-box, .main-wrapper .homepages-contentss .news-section .gallery-box {
+    border: none;
+}

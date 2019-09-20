@@ -1,0 +1,16 @@
+{
+    "name": "InvestorRelations",
+    "alias": "investorrelations",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\InvestorRelations\\Providers\\InvestorRelationsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

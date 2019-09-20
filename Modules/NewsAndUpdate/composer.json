@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/newsandupdate",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\NewsAndUpdate\\Providers\\NewsAndUpdateServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\NewsAndUpdate\\": ""
+        }
+    }
+}
